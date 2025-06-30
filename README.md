@@ -38,7 +38,7 @@ PlanSmart simulates an AI negotiation advisor by:
 - Offers discounts:  
   - 5% for minor budget gaps  
   - 8% for medium gaps  
-  - 12%-15% for larger gaps  
+  - 10%-12% for larger gaps  
 - Additional **10% Venue Rental discount if guests > 500**
 
 **Service Drop Recommendations**  
